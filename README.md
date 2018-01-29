@@ -73,17 +73,17 @@ Mga tools na maaaring makatulong sa iyong pag-aaral
 Want to ask questions ? , want to find collaborators ?
 
 * FreeCodeCamp ( not exclusive for freecodecamp )
-- https://gitter.im/FreeCodeCamp/LetsPair
-- https://gitter.im/FreeCodeCamp/HelpFrontEnd
-- https://gitter.im/FreeCodeCamp/Help
+   - https://gitter.im/FreeCodeCamp/LetsPair
+   - https://gitter.im/FreeCodeCamp/HelpFrontEnd
+   - https://gitter.im/FreeCodeCamp/Help
 
 * ReactJS/Redux related
-- https://gitter.im/chat-rooms/reactjs
-- https://gitter.im/reactjs/redux
-- https://www.reactiflux.com/
+   - https://gitter.im/chat-rooms/reactjs
+   - https://gitter.im/reactjs/redux
+   - https://www.reactiflux.com/
 
 * Bootstrap
-- https://gitter.im/twbs/bootstrap
+   - https://gitter.im/twbs/bootstrap
 
 
 --- Add more here.
