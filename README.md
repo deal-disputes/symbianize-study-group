@@ -1,6 +1,6 @@
 # symbianize-study-group
 
-
+# INTRODUCTION
 
 Importante ang mahusay na pagpili ng mga website na ating gagamitin upang matuto, sapat ba ang w3wschools? ano ang mga alternatibo para dito?
 Ang w3wschools ay nakakatulong para lamang sa mga reference at mabilis na lookup kapag nakalimutan mo ang isang bagay. Hindi ito magandang gamitin
@@ -32,11 +32,5 @@ Listahan ng mga online web development bootcamps na makakatulong sa iyong web de
    - FREE
 
 --- Add more here
-
-
-
-
-
-
 
 
