@@ -82,6 +82,9 @@ Want to ask questions ? , want to find collaborators ?
    - https://gitter.im/reactjs/redux
    - https://www.reactiflux.com/
 
+* Angular
+   - https://gitter.im/angular/angular
+   
 * Bootstrap
    - https://gitter.im/twbs/bootstrap
 
