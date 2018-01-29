@@ -1,4 +1,4 @@
-# Paano na matuto ng ReactJS?
+# Paano ba matuto ng ReactJS?
 
 
 
